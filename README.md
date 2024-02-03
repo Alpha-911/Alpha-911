@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Alpha-911
-- 👀 I’m interested in codeing, app development and animation.
-- 🌱 I’m currently learning to code and app development.
-- 💞️ I’m looking to collaborate on app development.
+- 👀 I’m interested in coding, web development and UI/UX.
+- 🌱 I’m currently learning UI/UX and web development.
+- 💞️ I’m looking to collaborate on web development.
 - 📫 How to reach me - reachme767@gmail.com
 
 <!---
